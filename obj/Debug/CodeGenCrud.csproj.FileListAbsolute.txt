@@ -1,0 +1,13 @@
+C:\Users\aboud\source\repos\Projects\CodeGenCrud\bin\Debug\CodeGenCrud.exe.config
+C:\Users\aboud\source\repos\Projects\CodeGenCrud\bin\Debug\CodeGenCrud.exe
+C:\Users\aboud\source\repos\Projects\CodeGenCrud\bin\Debug\CodeGenCrud.pdb
+C:\Users\aboud\source\repos\Projects\CodeGenCrud\obj\Debug\CodeGenCrud.csproj.AssemblyReference.cache
+C:\Users\aboud\source\repos\Projects\CodeGenCrud\obj\Debug\CodeGenCrud.Form1.resources
+C:\Users\aboud\source\repos\Projects\CodeGenCrud\obj\Debug\CodeGenCrud.Properties.Resources.resources
+C:\Users\aboud\source\repos\Projects\CodeGenCrud\obj\Debug\CodeGenCrud.csproj.GenerateResource.cache
+C:\Users\aboud\source\repos\Projects\CodeGenCrud\obj\Debug\CodeGenCrud.csproj.CoreCompileInputs.cache
+C:\Users\aboud\source\repos\Projects\CodeGenCrud\obj\Debug\CodeGenCrud.exe
+C:\Users\aboud\source\repos\Projects\CodeGenCrud\obj\Debug\CodeGenCrud.pdb
+C:\Users\aboud\source\repos\Projects\CodeGenCrud\bin\Debug\FastColoredTextBox.dll
+C:\Users\aboud\source\repos\Projects\CodeGenCrud\bin\Debug\FastColoredTextBox.xml
+C:\Users\aboud\source\repos\Projects\CodeGenCrud\obj\Debug\CodeGenC.D3B8FE5D.Up2Date
